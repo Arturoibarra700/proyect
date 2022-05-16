@@ -4,7 +4,7 @@ const BMIBusinessRules = require('../rules'); // The same as require('./rules.js
 
 function BMIEntity() {
 
-    const table = 'bmi_db';
+    const table = 'bmi';
     const id = 'bmi_id';
 
     /**
