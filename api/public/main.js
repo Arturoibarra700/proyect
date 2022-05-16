@@ -23,7 +23,7 @@ window.addEventListener('load', function(e) {
     });
 });
 
-const baseUrl = 'http://localhost:5012/v1/bmi-conrtroller';
+const baseUrl = 'http://localhost:5012/v1/bmi';
 async function post(body) {
     let response = null;
     try {
